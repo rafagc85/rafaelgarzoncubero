@@ -3,14 +3,13 @@
   <head>
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-147254651-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-147254651-1');
-</script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-147254651-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-147254651-1');
+  </script>
 
 
 
@@ -98,32 +97,28 @@
     <div class="container">
       <div class="row text-center">
         <div class="col-12 col-lg">
-          <a href="#">Acerca</a>
+        <a title="Infojobs" href="https://www.infojobs.net/rafael-garzon-cubero-1.prf" target="_blank"><img src="{{asset('media/image/logo_infojobs.png') }}" alt="logo_infojobs" width="50px"/></a>
+        <a title="GitHub" href="https://github.com/rafagc85/" target="_blank"><img src="{{asset('media/image/logo_github.png') }}" alt="logo_github" width="40px"/></a>
+        <a title="Platzi" href="https://platzi.com/@rafagc85/" target="_blank"><img src="{{asset('media/image/logo_platzi.png') }}" alt="logo_platzi" width="30px"/></a>
         </div>
-        <div class="col-12 col-lg">
-          <a href="/contacto">Contacto</a>
-        </div>
+
       </div>
     </div>
   </footer> 
  <!--  /footer -->
 
-
-
-
-
-    <!-- Optional JavaScript -->
-    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  <!-- Optional JavaScript -->
+  <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 
 
   </body>
 
   <script type="text/javascript" id="cookieinfo"
   src="//cookieinfoscript.com/js/cookieinfo.min.js">
-</script>
+  </script>
 
 </html>
 
