@@ -97,6 +97,7 @@
     <div class="container">
       <div class="row text-center">
         <div class="col-12 col-lg">
+        <a title="linkedin" href="https://www.linkedin.com/in/rafael-garz%C3%B3n-cubero/" target="_blank"><img src="{{asset('media/image/logo_linkedin.png') }}" alt="logo_linkedin" width="35px"/></a>
         <a title="Infojobs" href="https://www.infojobs.net/rafael-garzon-cubero-1.prf" target="_blank"><img src="{{asset('media/image/logo_infojobs.png') }}" alt="logo_infojobs" width="50px"/></a>
         <a title="GitHub" href="https://github.com/rafagc85/" target="_blank"><img src="{{asset('media/image/logo_github.png') }}" alt="logo_github" width="40px"/></a>
         <a title="Platzi" href="https://platzi.com/@rafagc85/" target="_blank"><img src="{{asset('media/image/logo_platzi.png ') }}" alt="logo_platzi" width="30px"/></a>
