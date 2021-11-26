@@ -60,14 +60,14 @@
   </button>
   <div class="collapse navbar-collapse" id="navbarNav">
     <ul class="navbar-nav">
-      <li class="nav-item active">
+      <li class="nav-item">
         <a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
         <a class="nav-link textimportant"  href="/curriculum">Currículum Vitae</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link disabled" tabindex="-1" href="http://stack-space.blogspot.com/" target="_blank" >Blog</a>
+        <a class="nav-link textimportant" tabindex="-1" href="https://rafaelgarzoncubero.com/blog/" target="_blank" >Blog</a>
       </li>
 
       <li class="nav-item">
