@@ -67,7 +67,7 @@
         <a class="nav-link textimportant"  href="/curriculum">Currículum Vitae</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link textimportant" tabindex="-1" href="https://rafaelgarzoncubero.com/blog/" target="_blank" >Blog</a>
+        <a class="nav-link textimportant" tabindex="-1" href="http://cienciaydatos24.com/" target="_blank" >Blog</a>
       </li>
 
       <li class="nav-item">
